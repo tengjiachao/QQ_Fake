@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>sidebar_purse</string>
+		<key>name</key>
+		<string>QQ钱包</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>sidebar_decoration</string>
+		<key>name</key>
+		<string>个性装扮</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>sidebar_favorit</string>
+		<key>name</key>
+		<string>我的收藏</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>sidebar_album</string>
+		<key>name</key>
+		<string>我的相册</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>sidebar_file</string>
+		<key>name</key>
+		<string>我的文件</string>
+	</dict>
+</array>
+</plist>
